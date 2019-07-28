@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="faceIdentification">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/test/java" />
+      <root url="file://$PROJECT_DIR$/target/faceIdentification-1.0.0/WEB-INF/lib/src/main/java" />
+      <root url="file://$PROJECT_DIR$/target/faceIdentification-1.0.0/WEB-INF/lib/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
