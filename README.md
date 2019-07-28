@@ -21,5 +21,5 @@
 + 人脸对比
     + 获取两张人脸图片的相似度
 ## 结果展示
-!(image)(https://github.com/redodata/faceIdentification/blob/master/imageRes/res1.png)
-!(image)(https://github.com/redodata/faceIdentification/blob/master/imageRes/res2.png)
+![image](https://github.com/redodata/faceIdentification/raw/master/imageRes/res1.png)
+![image](https://github.com/redodata/faceIdentification/raw/master/imageRes/res2.png)
